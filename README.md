@@ -15,6 +15,10 @@ You can use the [example](https://github.com/search?q=topic%3Aexample+org%3AWahl
 * [Privacy Policy](https://wahlnetwork.com/privacy-policy/)
 * [About Me](https://wahlnetwork.com/about/)
 
+### Archived Repositories
+
+When a project no longer has further life or interest from the community it is marked as _Archived_ and becomes read only. This is to preserve the history and avoid breaking inbound URLs.
+
 # The Fine Print
 
 ### Disclaimer
