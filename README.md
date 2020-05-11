@@ -1,4 +1,6 @@
-﻿# Welcome to the Wahl Network GitHub Organization
+![img](img/wn-header-dark.png)
+
+# Welcome!
 
 This organization provides helpful resources as a companion to the [Wahl Network website](https://wahlnetwork.com). It is managed and maintained by [Chris Wahl](https://twitter.com/ChrisWahl).
 
