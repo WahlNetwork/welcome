@@ -6,22 +6,25 @@ This organization provides helpful resources as a companion to the [Wahl Network
 
 You can use the [example](https://github.com/search?q=topic%3Aexample+org%3AWahlNetwork&type=Repositories) topic to search for repositories containing example use cases and solutions.
 
-### Wahl Network Resources
+## Resources
 
-* [Website](https://wahlnetwork.com/) - Technical blog and [RSS Feed](https://wahlnetwork.com/feed/).
-* [YouTube Channel](https://www.youtube.com/c/WahlnetworkPage) - Technical videos and guides.
-* [Rubrik](https://wahlnetwork.com/rubrik/) - References to work specific collateral and resources.
-* [Public Speaking](https://wahlnetwork.com/public-speaking/) - Platforms in which I store collateral and engage with event organizers: [Speaker Deck](https://speakerdeck.com/chriswahl), [SlideShare](https://www.slideshare.net/ChristopherWahl), [PaperCall](https://www.papercall.io/speakers/chriswahl), [Sessionize](https://sessionize.com/chriswahl/).
-* [Coding Projects](https://wahlnetwork.com/coding-projects/) - Various coding developments and open source projects.
-* [Twitter](https://twitter.com/ChrisWahl) and [LinkedIn](https://www.linkedin.com/in/wahlchris/) - Mostly technical tips, information, and interesting reads.
-* [Privacy Policy](https://wahlnetwork.com/privacy-policy/)
-* [About Me](https://wahlnetwork.com/about/)
+:arrow_forward: [Website](https://wahlnetwork.com/)
 
-### Archived Repositories
+:arrow_forward: [Twitter](https://twitter.com/ChrisWahl)
+
+:arrow_forward: [YouTube](https://www.youtube.com/c/WahlnetworkPage)
+
+:arrow_forward: [Twitch](https://www.twitch.tv/wahlnetwork)
+
+:arrow_forward: [LinkedIn](https://www.linkedin.com/in/wahlchris/)
+
+:arrow_forward: [RSS Feed](https://wahlnetwork.com/feed/)
+
+## Archived Repositories
 
 When a project no longer has further life or interest from the community it is marked as _Archived_ and becomes read only. This is to preserve the history and avoid breaking inbound URLs.
 
-# The Fine Print
+## The Fine Print
 
 ### Disclaimer
 
