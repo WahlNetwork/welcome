@@ -8,6 +8,10 @@ This organization provides helpful resources as a companion to the [Wahl Network
 
 ## Resources
 
+When giving a presentation, I create a resource page for the audience to easily find links to helpful blog posts, videos, code samples, and more. Visit the [Resources](/resources) page for a full list.
+
+## Platforms
+
 :arrow_forward: [Website](https://wahlnetwork.com/)
 
 :arrow_forward: [Twitter](https://twitter.com/ChrisWahl)
