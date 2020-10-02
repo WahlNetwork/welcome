@@ -1,10 +1,10 @@
-![img](img/wn-header-dark.png)
+# Welcome
 
-# Welcome!
+👋 Hello! 👋
 
-This organization provides helpful resources as a companion to the [Wahl Network website](https://wahlnetwork.com). It is managed and maintained by [Chris Wahl](https://twitter.com/ChrisWahl).
+This organization provides helpful resources as a companion to the [Wahl Network website](https://wahlnetwork.com) and [YouTube channel](https://www.youtube.com/c/WahlnetworkPage). It is managed and maintained by [Chris Wahl](https://twitter.com/ChrisWahl). This is a [safe, welcoming place](COC.md) in which all participants are treated with respect and dignity.
 
-You can use the [example](https://github.com/search?q=topic%3Aexample+org%3AWahlNetwork&type=Repositories) topic to search for repositories containing example use cases and solutions.
+> Note: You can use the [example](https://github.com/search?q=topic%3Aexample+org%3AWahlNetwork&type=Repositories) topic to search for repositories containing example use cases and solutions.
 
 ## Resources
 
