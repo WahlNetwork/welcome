@@ -2,7 +2,7 @@
 
 👋 Hello! 👋
 
-This organization provides helpful resources as a companion to the [Wahl Network website](https://wahlnetwork.com) and [YouTube channel](https://www.youtube.com/c/WahlnetworkPage). It is managed and maintained by [Chris Wahl](https://twitter.com/ChrisWahl). This is a [safe, welcoming place](COC.md) in which all participants are treated with respect and dignity.
+This organization provides helpful resources as a companion to the [Wahl Network website](https://wahlnetwork.com/) and [YouTube channel](https://www.youtube.com/@Wahlnetwork). It is managed and maintained by [Chris Wahl](https://www.linkedin.com/in/wahlchris/). This is a [safe, welcoming place](COC.md) in which all participants are treated with respect and dignity.
 
 > Note: You can use the [example](https://github.com/search?q=topic%3Aexample+org%3AWahlNetwork&type=Repositories) topic to search for repositories containing example use cases and solutions.
 
