@@ -14,11 +14,7 @@ When giving a presentation, I create a resource page for the audience to easily 
 
 :arrow_forward: [Website](https://wahlnetwork.com/)
 
-:arrow_forward: [Twitter](https://twitter.com/ChrisWahl)
-
-:arrow_forward: [YouTube](https://www.youtube.com/c/WahlnetworkPage)
-
-:arrow_forward: [Twitch](https://www.twitch.tv/wahlnetwork)
+:arrow_forward: [YouTube](https://www.youtube.com/@Wahlnetwork)
 
 :arrow_forward: [LinkedIn](https://www.linkedin.com/in/wahlchris/)
 
